@@ -1,0 +1,188 @@
+header{
+    display: flex;
+    align-items: center;
+    background-color: #E2813BD1;
+}
+
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.logo{
+    display: flex;
+    align-items: center;
+    border-radius: 100%;
+    box-sizing: border-box;
+}
+
+.t-h1{
+    color: #FFFFFF;
+}
+
+nav{
+    display: flex;
+    /* background-color: rgb(226, 93, 138); */
+    width: 85%;
+    margin: auto;
+    justify-content: space-between;
+
+}
+nav ul{
+    display: flex;
+    list-style: none;
+    
+}
+.logo{
+    display: flex;
+    align-items: center;
+   
+}
+.logo img{
+    margin-right: 0.5rem;
+  
+} 
+
+.text-h1{
+    text-decoration: none;
+    color: aliceblue;
+}
+
+nav ul li a{
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+}
+nav ul li{
+    margin-right: 1.85rem;    
+}
+/*----------------------*/
+.cen{
+    margin: auto;
+    width: 780px;
+}
+
+.bb{
+    text-align: left;
+    justify-content: center;
+    background: rgb(255, 255, 255);
+    height: 400px;
+    width: 750px;
+    border-radius: 10px;
+}
+
+.gif{
+    width: 300px;
+    height: 200px;
+    float: right;
+    padding: 0px 20px 0px 20px;
+    top: 30%;  
+    left: 55%;  
+    margin-top: -200px;  
+    margin-left: -100px;
+    
+}
+
+/*-----------------------------------กล่อง---------------------------------------------*/
+.allbox{
+    display: flex;
+    justify-content: space-between;
+    width: 1500px;
+}
+
+.card{
+    justify-content: center;
+    background-color: #887f7f;
+    height: 320px;
+    width: 320px;
+    box-shadow: 0px 0px 3px 3px rgb(58, 31, 31);
+    
+}
+
+.imgbox{
+    width: 80px;
+    height: 80px;
+    
+}
+
+.box{
+    text-align: center;
+}
+.design{
+    display: block;
+    margin: auto;
+    
+}
+.b1{
+    padding: 0px 0px 0px 230px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* Footer */
+footer{
+    background-color: #B3B7B8;
+    color: rgb(0, 0, 0);
+    padding: 0;
+    height: 200px;
+    
+}
+
+.loo{
+    width: 100px;
+    height: 121px;
+}
+
+.pp{
+    display: flex;
+    padding: 50px 0px 20px 250px;
+}
+.tee{
+    padding: 0px 0px 0px 50px;
+    font-size: 20px;
+}
+.dept{
+    display: flex;
+    
+}
+
+.imgde{
+    height: 136px;
+    width: 136px;
+}
+
+.boxp{
+    width: 191px;
+    height: 71px;
+    background-color: #FFFFFF;
+    padding: 20px 0px 0px 30px;
+    border-radius: 10px;
+}
+.aa{
+    float: right;
+    
+}
+.ass{
+
+    display: flex;
+    justify-content: space-around;
+}
